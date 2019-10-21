@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275436619270",
+    "firebase_url": "https://aquahd-d23d3.firebaseio.com",
+    "project_id": "aquahd-d23d3",
+    "storage_bucket": "aquahd-d23d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275436619270:android:9c1b55ee2b760711",
+        "android_client_info": {
+          "package_name": "com.example.aquahd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275436619270-bb60p1o5u164cd3eu19valh559bnl5bi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aquahd",
+            "certificate_hash": "38dc7cd894ddf891b851bff771cf10cd0d2f6e1e"
+          }
+        },
+        {
+          "client_id": "275436619270-khp73v7ceck4bjerlua7487r7pljo53l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALl3Fpm46TAgK-dKgmy20CEto_Kz12XTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275436619270-khp73v7ceck4bjerlua7487r7pljo53l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
